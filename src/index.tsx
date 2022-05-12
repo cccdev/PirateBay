@@ -1,4 +1,3 @@
-import React from 'react';
 import ReactDOM from 'react-dom/client';
 import Button, { ButtonSize, ButtonType } from './components/Button/button';
 import reportWebVitals from './reportWebVitals';
